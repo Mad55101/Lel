@@ -1,0 +1,90 @@
+[all_trade_buy]
+;Броники
+/.*_m1/						= 0.13, 0.05 ; 1,	0.5
+/.*_m2_exo/					= 0.13, 0.05
+outfit_stalker_m2			= 0.13, 0.05
+bandit_plash				= 0.13, 0.05
+/.*exo/						= 0.1,	0.05
+/.*outfit/					= 0.1,	0.05
+
+;Артефакты
+af_mobkiller				;NO TRADE
+/^af_/						= 0.5,	0.3
+
+;Аммуниция
+/.*ammo_/					= 0.3,	0.15
+
+;Гранаты
+grenade_f1				= 0.2,	0.1
+grenade_rgd5			= 0.2,	0.1
+
+;Оружие
+/^wpn_.*tact/	= 0.3,	0.3
+/^wpn_.*unic/	= 0.3,	0.3
+turret_pkm		= 0.3,	0.3
+/.*cherep_/		= 0.3,	0.3
+;Берёт всё, но за гроши.
+/^wpn_/			= 0.25,	0.1	; 0.25,	0.1
+
+;ADDONS
+/.*_scope_/		= 0.2, 0.1
+/.*_sil/		= 0.2, 0.1
+/.*_grenade_/	= 0.2, 0.1
+
+;Детали монстров
+/^mutant_/              = 0.2, 0.2
+
+;mutant_boar_leg			= 0.7,	0.5
+;mutant_burer_hand		= 1.5,	0.7
+;mutant_chimera_kogot	= 1.3,	0.8
+;mutant_dog_tail			= 0.5,	0.3
+;mutant_face_tushkano	= 0.5,	0.3
+;mutant_flesh_eye		= 0.7,	0.5
+;mutant_hand_kontroler	= 1.4,	1.2
+;mutant_izlom_hand		= 0.8,	0.6
+;mutant_krovosos_jaw		= 1.4,	1.0
+;mutant_poltergeist_glas	= 1.1,	0.7
+;mutant_psevdodog_tail	= 0.8,	0.5
+;mutant_psevdogigant_hand = 1,	0.8
+;mutant_snork_leg		= 1.2,	0.8
+;mutant_tail_cat		  	= 0.4,	0.3
+;mutant_zombie_hand		= 0.5,	0.3
+;mutant_rat_corp			= 0.5,	0.3
+
+;Медикаменты
+bandage			    = 0.3,	0.2
+/.*medkit/			= 0.3,	0.2
+antirad		     	= 0.2,	0.2
+yod					= 0.3,	0.2
+dix					= 0.3,	0.2
+bipsizon			= 0.3,	0.2
+sigaret             = 0.3,	0.2
+
+;Еда
+bread				= 0.3,	0.2
+conserva			= 0.3,	0.2
+energy_drink		= 0.4,	0.2
+kefir 				= 0.3,	0.2
+kolbasa				= 0.3,	0.2
+voda 				= 0.4,	0.2
+vodka				= 0.3,	0.2
+pivo				= 0.3,	0.2
+
+;Предметы
+/.*detector_/		= 0.1,	0.05
+/.*firmware_/		= 0.2,	0.1
+/^cartridge_/		= 0.2,	0.1
+/^device_pnv/		= 0.2,	0.1
+/^hand_radio/		= 0.2,	0.1
+/^harmonica_/		= 0.2,	0.1
+amk_metka           = 0.3,	0.2
+device_torch		= 0.3,	0.2
+explosive_mobiltank	= 0.4,	0.2
+explosive_tank	    = 0.4,	0.2
+guitar_a		    = 0.3,	0.2
+guitar_f            = 0.3,	0.2
+matras              = 0.3,	0.2
+repair_kit		    = 0.4,	0.3
+treasure_item		= 0.3,	0.2
+
+/.*/			;ALL OTHER - NO TRADE

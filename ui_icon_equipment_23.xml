@@ -1,0 +1,20 @@
+<ui_texture>
+  <file_name>ui\ui_icon_equipment_23</file_name>
+	<texture id="lel_and_polel_01" x="0" y="0" width="300" height="300" />
+	<texture id="lel_and_polel_02" x="300" y="0" width="300" height="300" />
+	<texture id="lel_and_polel_03" x="600" y="0" width="300" height="300" />
+	<texture id="lel_and_polel_04" x="900" y="0" width="300" height="300" />
+	<texture id="lel_and_polel_05" x="1200" y="0" width="300" height="300" />
+	<texture id="lel_and_polel_06" x="1500" y="0" width="300" height="300" />
+	<texture id="lel_and_polel_07" x="0" y="300" width="300" height="300" />
+	<texture id="lel_and_polel_08" x="300" y="300" width="300" height="300" />
+	<texture id="lel_and_polel_09" x="600" y="300" width="300" height="300" />
+	<texture id="lel_and_polel_10" x="900" y="300" width="300" height="300" />
+	<texture id="lel_and_polel_11" x="1500" y="300" width="300" height="300" />
+	<texture id="lel_and_polel_12" x="0" y="600" width="300" height="300" />
+	<texture id="lel_and_polel_13" x="300" y="600" width="300" height="300" />
+	<texture id="lel_and_polel_14" x="1200" y="300" width="300" height="300" />
+	
+	<!-- <texture id="" x="600" y="600" width="300" height="300" /> -->
+	
+</ui_texture>

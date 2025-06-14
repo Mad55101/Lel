@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<lel_2>
+	
+	<btn_back x="5" y="730" width="93" height="19" stretch="1" heading="0">
+	<texture_e>ui\ui_btn_01_e</texture_e>
+	<texture_t>ui\ui_btn_01_t</texture_t>
+	<texture_h>ui\ui_btn_01_h</texture_h>
+	<texture_offset x="0" y="2"/>
+		<text complex_mode="1" align="c" horiz_align="c" vert_align="c">book_back_string</text>
+	</btn_back>
+
+	<btn_next x="5" y="711" width="93" height="19" stretch="1" heading="0">
+	<texture_e>ui\ui_btn_01_e</texture_e>
+	<texture_t>ui\ui_btn_01_t</texture_t>
+	<texture_h>ui\ui_btn_01_h</texture_h>
+	<texture_offset x="0" y="2"/>
+		<text complex_mode="1" align="c" horiz_align="c" vert_align="c">book_next_string</text>
+	</btn_next>
+
+<!-- -- -->
+
+	<page1 x="0" y="0" width="556" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="1046" height="1440">ui\storm\lel_and_polel\2_lel_1992_july\lel_1992_july_1</texture>
+		<texture_offset x="237" y="0"/>
+	</page1>
+
+	<page2 x="0" y="0" width="1116" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2092" height="1440">ui\storm\lel_and_polel\2_lel_1992_july\lel_1992_july_2</texture>
+		<texture_offset x="-37" y="0"/>
+	</page2>
+
+	<page3 x="0" y="0" width="1116" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2092" height="1440">ui\storm\lel_and_polel\2_lel_1992_july\lel_1992_july_3</texture>
+		<texture_offset x="-37" y="0"/>
+	</page3>
+
+	<page4 x="0" y="0" width="1116" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2092" height="1440">ui\storm\lel_and_polel\2_lel_1992_july\lel_1992_july_4</texture>
+		<texture_offset x="-37" y="0"/>
+	</page4>
+
+	<page5 x="0" y="0" width="1116" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2092" height="1440">ui\storm\lel_and_polel\2_lel_1992_july\lel_1992_july_5</texture>
+		<texture_offset x="-37" y="0"/>
+	</page5>
+
+	<page6 x="0" y="0" width="1116" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2092" height="1440">ui\storm\lel_and_polel\2_lel_1992_july\lel_1992_july_6</texture>
+		<texture_offset x="-37" y="0"/>
+	</page6>
+
+	<page7 x="0" y="0" width="1116" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2092" height="1440">ui\storm\lel_and_polel\2_lel_1992_july\lel_1992_july_7</texture>
+		<texture_offset x="-37" y="0"/>
+	</page7>
+
+	<page8 x="0" y="0" width="1116" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2092" height="1440">ui\storm\lel_and_polel\2_lel_1992_july\lel_1992_july_8</texture>
+		<texture_offset x="-37" y="0"/>
+	</page8>
+
+	<page9 x="0" y="0" width="1116" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2092" height="1440">ui\storm\lel_and_polel\2_lel_1992_july\lel_1992_july_9</texture>
+		<texture_offset x="-37" y="0"/>
+	</page9>
+
+	<page10 x="0" y="0" width="1116" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2092" height="1440">ui\storm\lel_and_polel\2_lel_1992_july\lel_1992_july_10</texture>
+		<texture_offset x="-37" y="0"/>
+	</page10>
+
+	<page11 x="0" y="0" width="1116" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2092" height="1440">ui\storm\lel_and_polel\2_lel_1992_july\lel_1992_july_11</texture>
+		<texture_offset x="-37" y="0"/>
+	</page11>
+
+	<page12 x="0" y="0" width="1116" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2092" height="1440">ui\storm\lel_and_polel\2_lel_1992_july\lel_1992_july_12</texture>
+		<texture_offset x="-37" y="0"/>
+	</page12>
+
+	<page13 x="0" y="0" width="1116" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2092" height="1440">ui\storm\lel_and_polel\2_lel_1992_july\lel_1992_july_13</texture>
+		<texture_offset x="-37" y="0"/>
+	</page13>
+
+	<page14 x="0" y="0" width="1116" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2092" height="1440">ui\storm\lel_and_polel\2_lel_1992_july\lel_1992_july_14</texture>
+		<texture_offset x="-37" y="0"/>
+	</page14>
+
+	<page15 x="0" y="0" width="1116" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2092" height="1440">ui\storm\lel_and_polel\2_lel_1992_july\lel_1992_july_15</texture>
+		<texture_offset x="-37" y="0"/>
+	</page15>
+
+	<page16 x="0" y="0" width="1116" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2092" height="1440">ui\storm\lel_and_polel\2_lel_1992_july\lel_1992_july_16</texture>
+		<texture_offset x="-37" y="0"/>
+	</page16>
+
+	<page17 x="0" y="0" width="1116" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2092" height="1440">ui\storm\lel_and_polel\2_lel_1992_july\lel_1992_july_17</texture>
+		<texture_offset x="-37" y="0"/>
+	</page17>
+
+	<page18 x="0" y="0" width="1116" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2092" height="1440">ui\storm\lel_and_polel\2_lel_1992_july\lel_1992_july_18</texture>
+		<texture_offset x="-37" y="0"/>
+	</page18>
+
+	<page19 x="0" y="0" width="1116" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2092" height="1440">ui\storm\lel_and_polel\2_lel_1992_july\lel_1992_july_19</texture>
+		<texture_offset x="-37" y="0"/>
+	</page19>
+
+	<page20 x="0" y="0" width="1116" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2092" height="1440">ui\storm\lel_and_polel\2_lel_1992_july\lel_1992_july_20</texture>
+		<texture_offset x="-37" y="0"/>
+	</page20>
+
+	<page21 x="0" y="0" width="1116" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2092" height="1440">ui\storm\lel_and_polel\2_lel_1992_july\lel_1992_july_21</texture>
+		<texture_offset x="-37" y="0"/>
+	</page21>
+
+	<page22 x="0" y="0" width="1116" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2092" height="1440">ui\storm\lel_and_polel\2_lel_1992_july\lel_1992_july_22</texture>
+		<texture_offset x="-37" y="0"/>
+	</page22>
+
+	<page23 x="0" y="0" width="1116" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2092" height="1440">ui\storm\lel_and_polel\2_lel_1992_july\lel_1992_july_23</texture>
+		<texture_offset x="-37" y="0"/>
+	</page23>
+
+	<page24 x="0" y="0" width="1116" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2092" height="1440">ui\storm\lel_and_polel\2_lel_1992_july\lel_1992_july_24</texture>
+		<texture_offset x="-37" y="0"/>
+	</page24>
+
+	<page25 x="0" y="0" width="556" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="1046" height="1440">ui\storm\lel_and_polel\2_lel_1992_july\lel_1992_july_25</texture>
+		<texture_offset x="237" y="0"/>
+	</page25>
+
+<!-- -- -->
+
+	<btn_quit x="5" y="748" width="93" height="19" stretch="1" heading="0">
+	<texture_e>ui\ui_btn_01_e</texture_e>
+	<texture_t>ui\ui_btn_01_t</texture_t>
+	<texture_h>ui\ui_btn_01_h</texture_h>
+	<texture_offset x="0" y="2"/>
+		<text complex_mode="1" align="c" horiz_align="c" vert_align="c">close_this_string</text>
+		<!--		<text_color>
+			<e r="240" g="217" b="182"/>
+			<t r="0" g="0" b="0"/>
+			<d r="135" g="123" b="116"/>
+			<h r="0" g="0" b="0"/>
+		</text_color>		-->
+	</btn_quit>
+
+</lel_2>

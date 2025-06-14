@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<lel_6>
+	
+	<btn_back x="5" y="730" width="93" height="19" stretch="1" heading="0">
+	<texture_e>ui\ui_btn_01_e</texture_e>
+	<texture_t>ui\ui_btn_01_t</texture_t>
+	<texture_h>ui\ui_btn_01_h</texture_h>
+	<texture_offset x="0" y="2"/>
+		<text complex_mode="1" align="c" horiz_align="c" vert_align="c">book_back_string</text>
+	</btn_back>
+
+	<btn_next x="5" y="711" width="93" height="19" stretch="1" heading="0">
+	<texture_e>ui\ui_btn_01_e</texture_e>
+	<texture_t>ui\ui_btn_01_t</texture_t>
+	<texture_h>ui\ui_btn_01_h</texture_h>
+	<texture_offset x="0" y="2"/>
+		<text complex_mode="1" align="c" horiz_align="c" vert_align="c">book_next_string</text>
+	</btn_next>
+
+<!-- -- -->
+
+	<page1 x="0" y="0" width="553" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="1037" height="1440">ui\storm\lel_and_polel\6_lel_2001_january\lel_2001_january_1</texture>
+		<texture_offset x="237" y="0"/>
+	</page1>
+
+	<page2 x="0" y="0" width="1106" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2074" height="1440">ui\storm\lel_and_polel\6_lel_2001_january\lel_2001_january_2</texture>
+		<texture_offset x="-37" y="0"/>
+	</page2>
+
+	<page3 x="0" y="0" width="1106" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2074" height="1440">ui\storm\lel_and_polel\6_lel_2001_january\lel_2001_january_3</texture>
+		<texture_offset x="-37" y="0"/>
+	</page3>
+
+	<page4 x="0" y="0" width="1106" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2074" height="1440">ui\storm\lel_and_polel\6_lel_2001_january\lel_2001_january_4</texture>
+		<texture_offset x="-37" y="0"/>
+	</page4>
+
+	<page5 x="0" y="0" width="1106" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2074" height="1440">ui\storm\lel_and_polel\6_lel_2001_january\lel_2001_january_5</texture>
+		<texture_offset x="-37" y="0"/>
+	</page5>
+
+	<page6 x="0" y="0" width="1106" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2074" height="1440">ui\storm\lel_and_polel\6_lel_2001_january\lel_2001_january_6</texture>
+		<texture_offset x="-37" y="0"/>
+	</page6>
+
+	<page7 x="0" y="0" width="553" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="1037" height="1440">ui\storm\lel_and_polel\6_lel_2001_january\lel_2001_january_7</texture>
+		<texture_offset x="237" y="0"/>
+	</page7>
+
+	<page8 x="0" y="0" width="1106" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2074" height="1440">ui\storm\lel_and_polel\6_lel_2001_january\lel_2001_january_8</texture>
+		<texture_offset x="-37" y="0"/>
+	</page8>
+
+	<page9 x="0" y="0" width="1106" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2074" height="1440">ui\storm\lel_and_polel\6_lel_2001_january\lel_2001_january_9</texture>
+		<texture_offset x="-37" y="0"/>
+	</page9>
+
+	<page10 x="0" y="0" width="1106" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2074" height="1440">ui\storm\lel_and_polel\6_lel_2001_january\lel_2001_january_10</texture>
+		<texture_offset x="-37" y="0"/>
+	</page10>
+
+	<page11 x="0" y="0" width="1106" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2074" height="1440">ui\storm\lel_and_polel\6_lel_2001_january\lel_2001_january_11</texture>
+		<texture_offset x="-37" y="0"/>
+	</page11>
+
+	<page12 x="0" y="0" width="1106" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="2074" height="1440">ui\storm\lel_and_polel\6_lel_2001_january\lel_2001_january_12</texture>
+		<texture_offset x="-37" y="0"/>
+	</page12>
+
+	<page13 x="0" y="0" width="553" height="768" stretch="1" heading="1">
+		<texture x="0" y="0" width="1037" height="1440">ui\storm\lel_and_polel\6_lel_2001_january\lel_2001_january_13</texture>
+		<texture_offset x="237" y="0"/>
+	</page13>
+
+<!-- -- -->
+
+	<btn_quit x="5" y="748" width="93" height="19" stretch="1" heading="0">
+	<texture_e>ui\ui_btn_01_e</texture_e>
+	<texture_t>ui\ui_btn_01_t</texture_t>
+	<texture_h>ui\ui_btn_01_h</texture_h>
+	<texture_offset x="0" y="2"/>
+		<text complex_mode="1" align="c" horiz_align="c" vert_align="c">close_this_string</text>
+		<!--		<text_color>
+			<e r="240" g="217" b="182"/>
+			<t r="0" g="0" b="0"/>
+			<d r="135" g="123" b="116"/>
+			<h r="0" g="0" b="0"/>
+		</text_color>		-->
+	</btn_quit>
+
+</lel_6>
